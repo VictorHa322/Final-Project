@@ -7,6 +7,7 @@ Challenges - I will absolutely have to find tutorials to create games as I'm uns
 
 Outcomes - 
   a.) Ideal Outcome: Ideally, I hope I can create the game as that sounds fun and interesting to learn! The game would have no bugs in it and look appealing to the player as I wish to go for a pixel artstyle. 
+  
   b.) Minimal Viable Outcome: If the game ends up being too hard, I hope I can create the tool in replacement as I'm unsure of my skills in coding. I hope it would display reference images to the user when asked, but include other insights the user may need assistance with.
   
 Milestones - My goals for each week is to create anything that is functioning near of every Friday, and reserve the weekends to debug and fix any issues with my code. I assume it will take me more time and effort to create anything I listed as I'm unsure of my skill level,
