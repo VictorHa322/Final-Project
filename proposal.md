@@ -11,3 +11,4 @@ Outcomes -
   
 Milestones - My goals for each week is to create anything that is functioning near of every Friday, and reserve the weekends to debug and fix any issues with my code. I assume it will take me more time and effort to create anything I listed as I'm unsure of my skill level,
 but I hope I can create the assets needed for the game. 
+
